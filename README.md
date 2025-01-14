@@ -1,0 +1,1 @@
+This repository contains a Python function that demonstrates a stack overflow error due to an improper base case in recursion. The `bug.py` file shows the flawed function. The `bugSolution.py` file shows how to fix it using iteration. 
